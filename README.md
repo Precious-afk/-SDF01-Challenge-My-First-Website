@@ -1,5 +1,7 @@
 # 🌱 My First Website Portfolio
 
+My Name is Precious Mashingaidze
+
 Welcome to my very first project! 🎉  
 I’m a beginner software developer, excited to learn and build creative projects while exploring the world of web development.
 
